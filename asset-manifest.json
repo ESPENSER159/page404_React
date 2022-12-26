@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ESPENSER159/page404_React/static/css/main.74e4a039.css",
+    "main.js": "/ESPENSER159/page404_React/static/js/main.2eafc63a.js",
+    "index.html": "/ESPENSER159/page404_React/index.html",
+    "main.74e4a039.css.map": "/ESPENSER159/page404_React/static/css/main.74e4a039.css.map",
+    "main.2eafc63a.js.map": "/ESPENSER159/page404_React/static/js/main.2eafc63a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e4a039.css",
+    "static/js/main.2eafc63a.js"
+  ]
+}
