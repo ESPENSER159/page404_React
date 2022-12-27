@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './404.css';
 
 export default function error404() {
